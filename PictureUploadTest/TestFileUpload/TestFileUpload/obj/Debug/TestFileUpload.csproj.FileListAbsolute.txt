@@ -1,0 +1,10 @@
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\TestFileUpload.exe.config
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\TestFileUpload.exe
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\TestFileUpload.pdb
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\WebDriver.dll
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\WebDriver.Support.dll
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\WebDriver.xml
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\bin\Debug\WebDriver.Support.xml
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\obj\Debug\TestFileUpload.csprojResolveAssemblyReference.cache
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\obj\Debug\TestFileUpload.exe
+C:\Users\faiza\Desktop\Test file Selenium\TestFileUpload\TestFileUpload\obj\Debug\TestFileUpload.pdb
